@@ -11,7 +11,7 @@ body {
 .mainContent {
     background-color: #ffffff;
     margin-top: 40px;
-    margin-bottom: 100px;
+    margin-bottom: 75px;
     padding-bottom: 20px;
 }
 
@@ -37,7 +37,24 @@ footer {
 }
 
 .imageText {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #4aaaa5;
+    font-size: 2em;
+    text-align: center;
     color: #ffffff;
     width: 100%;
+    position: relative;
+    bottom: 100px;
+    height: 75px;
+    padding-top: .5em;
+    margin-left: 0;
+    overflow: hidden;
+}
+
+footer {
+    font-size: 12px;
+}
+
+footer a {
+    margin: 0 auto;
 }
