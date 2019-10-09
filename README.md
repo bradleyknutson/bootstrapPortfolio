@@ -1,2 +1,0 @@
-# bootstrapPortfolio
-Portfolio using Bootstrap
