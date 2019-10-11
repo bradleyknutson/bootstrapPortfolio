@@ -49,6 +49,8 @@ h1 {
 .headshot {
     float: left;
     margin-right: 20px;
+    height: 400px;
+    width: 400px;
 }
 
 footer {
@@ -81,4 +83,8 @@ footer a {
 .btn {
     background-color: #4aaaa5;
     color: #ffffff;
+}
+
+.appImage {
+    width: 100%;
 }
