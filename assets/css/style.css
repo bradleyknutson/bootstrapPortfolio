@@ -49,12 +49,13 @@ h1 {
 .headshot {
     float: left;
     margin-right: 20px;
-    height: 400px;
-    width: 400px;
 }
 
-footer {
+.footer {
     border-top: 8px solid #4aaaa5;
+    background-color: #777777;
+    font-size: 12px;
+    color: #ffffff;
 }
 
 .imageText {
@@ -72,12 +73,9 @@ footer {
     overflow: hidden;
 }
 
-footer {
-    font-size: 12px;
-}
-
 footer a {
     margin: 0 auto;
+    color: #cccccc;
 }
 
 .btn {
@@ -88,3 +86,4 @@ footer a {
 .appImage {
     width: 100%;
 }
+
